@@ -1,0 +1,51 @@
+html {
+    font-family: 'Times New Roman', Times, sans-serif;
+    background-image: url(../Imagenes/Cerberus-Guarding-The-Underworld.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header{
+    background-color: antiquewhite;
+    opacity: .7;
+}
+
+/*Titulo de la pagina*/
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    padding: 30px;
+}
+
+h3{
+    padding: 30px;
+}
+
+p{
+    text-align: justify;
+}
+
+/*Codigo del menu de navegación*/
+nav{
+    padding: 10px;
+}
+
+nav ol{
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li{
+    display: inline;
+    margin-right: 40px;
+    background-color: aqua;
+}
+
+nav a{
+    text-decoration: none;
+}
